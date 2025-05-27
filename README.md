@@ -14,7 +14,7 @@ To reliably retrieve raw **IMU (accelerometer + gyroscope)** data from the **MPU
 
 | Component       | Description                               |
 |----------------|-------------------------------------------|
-| ESP32 Dev Board| Wi-Fi enabled microcontroller             |
+| ESP32 DevKit V1| Wi-Fi enabled microcontroller             |
 | MPU9250        | 9-axis IMU (accelerometer + gyroscope + magnetometer) |
 | Jumper wires   | For connections                           |
 | Breadboard     | For easy prototyping                      |
