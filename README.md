@@ -131,3 +131,11 @@ You can receive and visualize the transmitted IMU data via:
 - Tools like `netcat` or custom **telemetry visualizer scripts**.
 
 ---
+
+## Author
+
+Pranshu Kumar  
+IoT Research Intern, Machine Intelligence Program  
+GitHub: https://github.com/sudo-pranshu
+
+
